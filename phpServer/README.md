@@ -1,5 +1,7 @@
 ## PHP Server
 
+![](Php.png)
+
 A basic PHP server which can be run locally. No external modules used.
 
 ### How to run locally

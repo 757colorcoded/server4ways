@@ -1,5 +1,7 @@
 ## Express server in NodeJS runtime
 
+![](NodeJS.png)
+
 ### Modules used
 
 1. `express`
