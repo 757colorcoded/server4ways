@@ -1,5 +1,7 @@
 ## PHP Server
 
+<img src="./php_logo.png" width="150">
+
 A basic PHP server which can be run locally. No external modules used.
 
 ### How to run locally
