@@ -13,7 +13,7 @@ class RequestHandler(BaseHTTPRequestHandler):
         self.setResponseHeaders()
         self.wfile.write(self.createHTMLMessage("Welcome to python server"))
 
-def runServer(serverClass = HTTPServer, handlerClass = RequestHandler, serverAddress="localhost", serverPort=8080):
+def runServer(serverClass = HTTPServer, handlerClass = RequestHandler, serverAddress="0.0.0.0", serverPort=8080):
     mainAddress = (serverAddress, serverPort)
     mainServer = serverClass(mainAddress, handlerClass)
     print(f"Starting server at {serverAddress}:{serverPort}")
