@@ -1,5 +1,5 @@
 ## Python server
-
+![Python Logo](python-logo.png)
 ### Modules used
 
 1. `http.request`

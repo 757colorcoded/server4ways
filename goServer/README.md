@@ -1,5 +1,5 @@
 ## Golang server
-
+![Golang Logo](golang-logo.png)
 ### Modules used
 
 1. `net/http`

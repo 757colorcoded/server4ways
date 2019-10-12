@@ -1,5 +1,5 @@
 ## Express server in NodeJS runtime
-
+![Node Logo](nodejs-logo.png)
 ### Modules used
 
 1. `express`
