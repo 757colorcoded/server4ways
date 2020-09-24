@@ -1,5 +1,7 @@
 ## Golang server
 
+<img src="./golang_logo.png" width="150">
+
 ### Modules used
 
 1. `net/http`

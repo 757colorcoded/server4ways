@@ -1,5 +1,7 @@
 ## Python server
 
+<img src="./python_logo.png" width="150">
+
 ### Modules used
 
 1. `http.request`
